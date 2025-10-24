@@ -13,7 +13,8 @@ Drawing on work by Liu (1999), Callender (2001), and Mainwood (2006), the essay 
 ---
 
 ## Contents
-- Reduction_Of_Thermodynamics.md - full essay  
+- Reduction_Of_Thermodynamics.md - full essay pdf
+- Reduction_Of_Thermodynamics.md - full essay markdown
 - README.md - summary and citation  
 
 ---

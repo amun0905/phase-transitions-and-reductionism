@@ -1,6 +1,6 @@
 # Reduction of Thermodynamics to Statistical Mechanics
 
-This repository contains Amun Govil Lie’s undergraduate 2nd year essay for for the module Philosophy of Physics I: Space and Time (5AANB053) at King's College London. Top-of-class mark received: 79.
+This repository contains Amun Govil Lie’s summative undergraduate 2nd year essay for for the module Philosophy of Physics I: Space and Time (5AANB053) at King's College London. Top-of-class mark received: 79.
 
 ---
 

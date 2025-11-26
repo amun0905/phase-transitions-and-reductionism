@@ -1,4 +1,4 @@
-This repository contains Amun Govil Lie’s undergraduate essay for for the module Philosophy of Physics I: Space and Time (5AANB053) at King's College London. Mark received: 79.
+This repository contains Amun Govil Lie’s undergraduate summative essay for for the module Philosophy of Physics I: Space and Time (5AANB053) at King's College London. Mark received: 79.
 
 The essay examines the problem of reducing thermodynamics (TD) to statistical mechanics (SM) — specifically the issue of phase transitions (PT).  
 It argues that current SM models, which require infinite systems to reproduce thermodynamic singularities, are inconsistent with the finite systems of real-world physics.  
